@@ -100,4 +100,3 @@ def load_file(li, neflags, format):
     load_debugger("bochs", 0)
     
     return 1
-    return 1
