@@ -1,3 +1,6 @@
+# Updated to be able to use MBR loader in IDA Pro 7+
+Everything else is the same as forked version..
+
 # bootkits samples
 
 password: infected
